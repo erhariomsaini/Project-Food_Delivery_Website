@@ -1,1 +1,1 @@
-## Food Delivery Website designed using HTML and CSS
+## Food Delivery Website Template designed using HTML and CSS
